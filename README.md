@@ -1,5 +1,8 @@
 # Bitmap Library
 
+[![Build Status](https://github.com/diffstorm/ConcurrentBitmap/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/diffstorm/ConcurrentBitmap/actions)
+[![Language](https://img.shields.io/github/languages/top/diffstorm/ConcurrentBitmap)](https://github.com/diffstorm/ConcurrentBitmap)
+
 This is a simple header-only bitmap library implemented in C++. It provides methods to manipulate a bitmap represented as a vector of a byte, supporting operations such as setting and clearing individual bits, drawing lines and circles, and visualizing the bitmap in the console.
 
 ## Features
